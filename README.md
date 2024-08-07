@@ -15,6 +15,7 @@
       <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-323330?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/Amazon_AWS-FF9900?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src="https://custom-icon-badges.demolab.com/badge/MongoDB-4EA94B?logo=cpp2&logoColor=white"></a>
+      <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
       <a href="#"><img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="Node.js" src="https://custom-icon-badges.demolab.com/badge/Node%20js-339933?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="NPM" src="https://custom-icon-badges.demolab.com/badge/npm-CB3837?logo=cpp2&logoColor=white"></a>
