@@ -2,10 +2,9 @@
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/Developer.gif" />
 
-- 👨‍🎓 I am @Nikita-Bhaise,currently embarking on my B.E. journey from D.Y. Patil Institute of Technology, Pimpri, Pune.
-- 🌱 I’m currently learning  Competitive Coding.
+- 👨‍🎓 I am @Nikita-Bhaise, I have completed my Bachelor of Engineering and am currently employed at Fiserv.
+- ⭐️I am eager to expand my knowledge and acquire new skills. This repository will showcase the projects and learning experiences as I dive into new areas and technologies.
 - 💻 I'm a Full-Stack JAVA Developer.
-- ⭐️ 3-star in JAVA on hackerRank.
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
 
