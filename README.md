@@ -34,21 +34,6 @@
   </p>
 </details>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div style="text-align: center;">
-  <table style="display: inline-block;">
-    <tr>
-      <td style="text-align: center;">
-          <img src="https://github-readme-stats.vercel.app/api?username=Nikita-Bhaise&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-      </td>
-      <td style="text-align: center;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita-Bhaise&theme=blueberry&hide_border=false" alt="GitHub Streak Stats"/>
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
 
 <div style="text-align: center;">
   <table style="margin: auto;">
