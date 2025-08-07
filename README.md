@@ -12,15 +12,19 @@
 
   <p>
       <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-323330?logo=cpp2&logoColor=white"></a>
+    <a href="#"><img alt="Tricentis Tosca" src="https://custom-icon-badges.demolab.com/badge/TricentisTosca-005EB8?logo=tricentis&logoColor=white"></a>
+    <a href="#"><img alt="Salesforce" src="https://custom-icon-badges.demolab.com/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white"></a>
+    <a href="#"><img alt="Workday" src="https://custom-icon-badges.demolab.com/badge/Workday-F38F1F?logo=workday&logoColor=white"></a>
+    <a href="#"><img alt="Mulesoft" src="https://custom-icon-badges.demolab.com/badge/MuleSoft-00A1DF?logo=mulesoft&logoColor=white"></a>
+    <a href="#"><img alt="qTest" src="https://custom-icon-badges.demolab.com/badge/qTest-172B4D?logo=qtest&logoColor=white"></a>
+    <a href="#"><img alt="JIRA" src="https://custom-icon-badges.demolab.com/badge/Jira-0052CC?logo=jira&logoColor=white"></a>
+    <a href="#"><img alt="Talent Wall" src="https://custom-icon-badges.demolab.com/badge/TalentWall-888888?logo=talentwall&logoColor=white"></a>
       <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
       <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="PowerBI" src="https://custom-icon-badges.demolab.com/badge/PowerBI-F2C811?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-20232A?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="Eclipse" src="https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-005C84?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-
-    
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>   
   </p>
 </details>
 
