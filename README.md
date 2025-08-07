@@ -12,25 +12,15 @@
 
   <p>
       <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-323330?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/Amazon_AWS-FF9900?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src="https://custom-icon-badges.demolab.com/badge/MongoDB-4EA94B?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-      <a href="#"><img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="Node.js" src="https://custom-icon-badges.demolab.com/badge/Node%20js-339933?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="NPM" src="https://custom-icon-badges.demolab.com/badge/npm-CB3837?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="PowerBI" src="https://custom-icon-badges.demolab.com/badge/PowerBI-F2C811?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-20232A?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="Spring Boot" src="https://custom-icon-badges.demolab.com/badge/Spring_Boot-6DB33F?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="Eclipse" src="https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="IntelliJ IDEA" src="https://custom-icon-badges.demolab.com/badge/IntelliJ_IDEA-000000.svg?logo=cpp2&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-005C84?logo=cpp2&logoColor=white"></a>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F05033.svg?logo=google-colab&logoColor=golden&style=flat-square&color=grey"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+
+    
   </p>
 </details>
 
