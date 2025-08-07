@@ -2,13 +2,14 @@
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/Developer.gif" />
 
-- 👨‍🎓 I am @Nikita-Bhaise, I have completed my Bachelor of Engineering and am currently employed at Fiserv.
-- ⭐️I am eager to expand my knowledge and acquire new skills. This repository will showcase the projects and learning experiences as I dive into new areas and technologies.
+- 👨‍🎓 I am @Nikita-Bhaise, I have completed my Bachelor of Engineering and am currently employed at Fiserv. 
 - 🧪 Expert in test automation (Tosca, Postman, Selenium) as well as UI Testing, Integration Testing, API Testing and Database Testing
+- 👩‍💻 Full-Stack QA Engineer | Enterprise Application Testing | Automation | Data & Cloud Platforms
+- ⭐️ Detail-oriented QA professional with hands-on experience across the full software development lifecycle. Specialized in **UI**, **API**, **Database**, and **Integration testing** across cloud and enterprise platforms. Proven ability to build reliable automation frameworks, validate business-critical workflows, and deliver high-quality releases.
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/giphy.gif" />
 
-<h3>🔨💻 Programming Languages, Frameworks, Libraries, Databases and Tools</h3>
+<h3>🔨🧠 Core Expertise:</h3>
 
   <p>
       <a href="#"><img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-323330?logo=cpp2&logoColor=white"></a>
