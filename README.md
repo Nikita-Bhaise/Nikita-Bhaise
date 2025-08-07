@@ -2,8 +2,9 @@
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://github.com/IMvision12/IMvision12/blob/main/Developer.gif" />
 
-- 👨‍🎓 I am @Nikita-Bhaise, I have completed my Bachelor of Engineering and am currently employed at Fiserv. 
-- 🧪 Expert in test automation (Tosca, Postman, Selenium) as well as UI Testing, Integration Testing, API Testing and Database Testing
+- 👨‍🎓 I am @Nikita-Bhaise,
+- 🎓 **Education**: Bachelor of Engineering
+- 💼 **Current Role**: QA Engineer at **Fiserv**
 - 👩‍💻 Full-Stack QA Engineer | Enterprise Application Testing | Automation | Data & Cloud Platforms
 - ⭐️ Detail-oriented QA professional with hands-on experience across the full software development lifecycle. Specialized in **UI**, **API**, **Database**, and **Integration testing** across cloud and enterprise platforms. Proven ability to build reliable automation frameworks, validate business-critical workflows, and deliver high-quality releases.
 
